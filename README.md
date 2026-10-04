@@ -2,9 +2,11 @@
 💻 A passionate software engineer on a mission to create innovative solutions. Welcome to my corner of GitHub!
 
 📖 **Currently Expanding My Knowledge:**  
-- Advanced React.js    
+- Advanced React.js
+- Advanced Next.js    
 - Node.js and Express.js  
-- .NET Core Web API  
+- .NET Core Web API
+- Wordpress  
 
 🎯 **What Excites Me:** 
 - Full Stack Web Development
